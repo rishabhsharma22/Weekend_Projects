@@ -1,0 +1,4 @@
+Problem_Link: https://leetcode.com/problems/longest-word-in-dictionary/
+
+Hint: Traverse Dictionary and store the length of lonbgest word achieved till the point. Repeat till all the words are searched. Main goal optimize time.
+
